@@ -10,10 +10,9 @@ The console is the first segment of the AirBnB project at Holberton School that 
 - Update attributes of an object
 - Destroy an object
 
-## Authors
+## Author
+Olayemi Obafuwa (obafuwaolayemi@gmail.com)
 
-Abel Berhanu - [Github](https://github.com/abela12)  
-Abdulqodir Oladimeji)- [Github](https://github.com/Abdulqodir-Oladimeji)
 
 ## License
 
